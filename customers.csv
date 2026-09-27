@@ -1,0 +1,6 @@
+customer_id,customer_name,city,status
+C101,Suresh,Hyderabad,ACTIVE
+C102,Rahul,Bangalore,ACTIVE
+C103,Priya,Chennai,ACTIVE
+C104,Anjali,Hyderabad,INACTIVE
+C105,Vikram,Mumbai,ACTIVE
